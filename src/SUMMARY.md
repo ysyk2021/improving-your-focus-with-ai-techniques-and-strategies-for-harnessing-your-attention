@@ -3,7 +3,6 @@
 - [Introduction](README.md)
   - [The role of AI in improving focus](chapter-1-1.md)
   - [How AI can enhance productivity, well-being, and performance](chapter-1-2.md)
-  - [What you can expect from this book](chapter-1-3.md)
 - [Chapter 1: Understanding AI and Its Impact on Focus](chapter-2.md)
   - [What is AI and how does it work for enhancing focus?](chapter-2-1.md)
   - [Common applications of AI in focus improvement, including time management and distraction reduction](chapter-2-2.md)
