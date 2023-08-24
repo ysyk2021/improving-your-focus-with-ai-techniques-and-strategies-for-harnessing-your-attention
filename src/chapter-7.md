@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 In this book, we explored techniques and strategies for harnessing your attention with artificial intelligence (AI) to improve focus. We discussed the benefits of using AI-powered tools to enhance productivity, learning, and creativity.
 

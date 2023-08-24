@@ -1,5 +1,3 @@
-Machine Learning-Powered Virtual Assistants for Focus Improvement
-========================================================================================================================================
 
 Artificial intelligence (AI) technologies can be used to provide personalized support for improving focus and attention. In this chapter, we will explore how machine learning-powered virtual assistants can be used for personalized focus support.
 

@@ -1,5 +1,3 @@
-Chapter 1: Understanding AI and Its Impact on Focus
-===================================================
 
 Artificial intelligence (AI) has emerged as a powerful tool for improving focus and attention. By understanding what AI is and how it works, individuals can leverage this technology to enhance their productivity and achieve their goals more effectively.
 

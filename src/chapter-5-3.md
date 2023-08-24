@@ -1,5 +1,3 @@
-Personalizing Well-being Support with Machine Learning
-========================================================================================================================
 
 Stress is a common issue that can significantly impact our well-being and productivity. Fortunately, artificial intelligence (AI) technologies provide valuable support for stress reduction and overall well-being improvement. In this chapter, we will explore how AI-powered tools can personalize well-being support through machine learning.
 

@@ -1,5 +1,3 @@
-The Role of AI in Improving Focus
-===============================================
 
 In today's digital age, maintaining focus and productivity can be a challenge. With constant notifications, emails, and messages vying for our attention, it can be difficult to stay on task and achieve our goals. Fortunately, artificial intelligence (AI) technologies provide valuable support for improving focus and attention management.
 

@@ -1,5 +1,3 @@
-Recap of the benefits of using AI for improving focus
-=================================================================
 
 In this book, we have explored various techniques and strategies for improving focus through the use of Artificial Intelligence (AI). From personalized goal-setting to targeted brain training exercises, AI-powered tools offer a range of benefits that can help us overcome distractions and achieve our goals.
 

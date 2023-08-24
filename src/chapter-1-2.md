@@ -1,5 +1,3 @@
-How AI Can Enhance Productivity, Well-being, and Performance
-==========================================================================
 
 In today's fast-paced world, maintaining focus and productivity can be challenging. Fortunately, artificial intelligence (AI) technologies provide valuable support for improving focus and attention management. In this introduction, we will explore how AI can enhance productivity, well-being, and performance.
 

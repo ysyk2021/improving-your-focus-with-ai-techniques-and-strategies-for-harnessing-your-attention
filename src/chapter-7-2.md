@@ -1,5 +1,3 @@
-Final thoughts and encouragement to implement these techniques and strategies for harnessing your attention with technology
-=======================================================================================================================================
 
 Congratulations! You've made it to the end of this book on improving your focus with AI. By now, you should have a solid understanding of the various techniques and strategies that can help you harness your attention with technology.
 

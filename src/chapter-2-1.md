@@ -1,5 +1,3 @@
-What is AI and How Does It Work for Enhancing Focus?
-=========================================================================================================
 
 In today's fast-paced world, maintaining focus and productivity can be challenging. Fortunately, artificial intelligence (AI) technologies provide valuable support for improving focus and attention management. In this chapter, we will explore what AI is and how it works for enhancing focus.
 

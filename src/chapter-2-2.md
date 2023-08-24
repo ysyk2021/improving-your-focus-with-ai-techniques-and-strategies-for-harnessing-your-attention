@@ -1,5 +1,3 @@
-Common Applications of AI in Focus Improvement, Including Time Management and Distraction Reduction
-========================================================================================================================================================
 
 Artificial intelligence (AI) technologies can provide valuable support for improving focus and attention management. In this chapter, we will explore common applications of AI in focus improvement, including time management and distraction reduction.
 

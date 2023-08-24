@@ -1,5 +1,3 @@
-Chapter 3: Leveraging Machine Learning for Personalized Focus Support
-=====================================================================
 
 Artificial intelligence (AI) technologies can be used to provide personalized support for improving focus and attention. In this chapter, we will explore how machine learning can be leveraged for personalized focus support through analytics, decision-making tools, and virtual assistants.
 
