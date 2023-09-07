@@ -6,3 +6,7 @@ This book, "Improving Your Focus with AI: Techniques and Strategies for Harnessi
 Whether you're a student, professional, or anyone looking to improve their focus and attention, this book offers practical techniques and strategies for harnessing your attention with artificial intelligence. We hope you find it useful in enhancing your mental focus and productivity.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
